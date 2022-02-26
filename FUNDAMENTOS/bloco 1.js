@@ -1,4 +1,4 @@
-// 5 setencas e 2 blocos codigos
+// 6 setencas e 2 blocos codigos
 {
   console.log("passo #01");
   console.log("passo #02");
