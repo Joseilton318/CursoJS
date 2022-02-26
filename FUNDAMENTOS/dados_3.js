@@ -4,3 +4,9 @@ console.log (typeof idade);
 
 let salario = 4758.46;
 console.log(typeof salario);
+
+let estaChovendo = true // ou false
+console.log (typeof estaChovendo)
+
+console.log(typeof "teste");
+console.log(typeof 'teste');
