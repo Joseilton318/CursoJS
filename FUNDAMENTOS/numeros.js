@@ -12,10 +12,3 @@ const total = avaliacao1 * peso1 * avaliacao2 * peso2
 const media = total / (peso1 + peso2)
 
 console.log(media)
-
-const provaPortugues = 8.1
-const provaHistoria = 5.2
-const provaIngles = 8.6
-const provaTi = 7.9
-
-const total =provaPortugues * peso2 *provaHistoria * peso1 - 45
